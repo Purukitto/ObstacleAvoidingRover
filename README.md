@@ -1,5 +1,5 @@
-# ObstacleAvoidingRover
-Simple obstacle avoiding rover using Arduino Uno and Adarfruit motor shield library
+# Obstacle Avoiding Rover
+
 
 Main components used:
 - Arduino UNO
