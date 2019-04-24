@@ -1,2 +1,11 @@
 # ObstacleAvoidingRover
-Simple obstacle avoiding rover using Arduino Uno and Adarfruit motor library 
+Simple obstacle avoiding rover using Arduino Uno and Adarfruit motor shield library
+
+Main components used:
+- Arduino UNO
+- 2 Motors (Can use 4 for 4 wheel drive)
+- Chasis
+- 4 wheels
+- Ultrasound sensor
+
+Library used [AFmotor](https://github.com/adafruit/Adafruit-Motor-Shield-library "AFmotor Shield library")
