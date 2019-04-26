@@ -3,6 +3,7 @@
 
 Main components used:
 - Arduino UNO
+- Motor Shield
 - 2 Motors (Can use 4 for 4 wheel drive)
 - Chasis
 - 4 wheels
