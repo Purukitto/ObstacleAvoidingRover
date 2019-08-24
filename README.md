@@ -1,5 +1,7 @@
 # Obstacle Avoiding Rover
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94868fb063514d9f931a7fb393ce5038)](https://app.codacy.com/app/purukitto/ObstacleAvoidingRover?utm_source=github.com&utm_medium=referral&utm_content=Purukitto/ObstacleAvoidingRover&utm_campaign=Badge_Grade_Dashboard)
+
 
 Main components used:
 - Arduino UNO
